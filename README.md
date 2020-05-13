@@ -1,0 +1,1 @@
+# Control-measuring-system-for-motor-test-stand
